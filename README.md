@@ -1,4 +1,8 @@
 # cilicios-html-template
+https://getbem.com/
+
+https://sass-lang.com/documentation/
+
 ------------------------
 
 TO INSTALL ALL PACKAGES:
